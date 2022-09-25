@@ -5,6 +5,11 @@
 body {
     margin: 0%;
     font-family: 'Ubuntu Mono', monospace;
+    background-image: url(https://c.tenor.com/8zHVy-SnQBQAAAAd/eo-narga.gif);
+    background-size: cover;
+    position: relative; 
+    height: 100vh;
+    width: 100vw;
 }
 
 .cabecalho {
@@ -20,8 +25,12 @@ body {
 }
 
 a {
-    text-decoration: none;
-    
+    text-decoration: none;    
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(150, 150, 200) ;
 }
 
 li {
