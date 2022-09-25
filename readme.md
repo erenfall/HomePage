@@ -3,7 +3,7 @@
 
 ## motivos
 
-Este projeto foi iniciado com o intuito de aprendizado e customizaçao.s
+Este projeto foi iniciado com o intuito de aprendizado e customizaçao
 
 ## Obejetos
 
