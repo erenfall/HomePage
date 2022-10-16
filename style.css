@@ -46,11 +46,11 @@ body {
 
 a {
     text-decoration: none;
-    color: var(--color-tx-2);
+    color: var(--color-cm-1-6);
 }
 
 a:hover {
-    color: var(--color-tx-3);
+    color: var(--color-cm-2-6);
 }
 
 li {
@@ -60,7 +60,7 @@ li {
 
 /* class */
 .titulo {
-    color: var(--color-tx-1);
+    color: var(--color-cm-1-7);
 }
 
 .search {
@@ -70,7 +70,7 @@ li {
 /* ID */
 
 #menu {
-    background-color: var(--color-bg-2);
+    background-color: var(--color-cm-2-1);
     width: fit-content;
     border-radius: 16px ;
     border: 0px solid rgba(0, 0, 0, 0);
