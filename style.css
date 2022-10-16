@@ -72,6 +72,10 @@ li {
 
 }
 
+.menu{
+    display: flex;
+}
+
 .titulo {
     color: var(--color-cm-1-7);
 }
