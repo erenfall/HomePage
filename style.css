@@ -3,12 +3,32 @@
 
 /* colors */
 :root {
-    --color-bg-1: #0D0D0D;
-    --color-bg-2: #262626;
-    --color-bg-3: #595959;
-    --color-tx-1: #F2F2F2;
-    --color-tx-2: #A6A6A6;
-    --color-tx-3: #757575;
+    -color-cm-1-1: #11111b
+    -color-cm-1-2: #1e1e2e
+    -color-cm-1-3: #45475a
+    -color-cm-1-4: #6c7086
+    -color-cm-1-5: #9399b2
+    -color-cm-1-6: #bac2de
+    -color-cm-1-7: #b4befe
+    -color-cm-1-8: #74c7ec
+    -color-cm-1-9: #94e2d5
+    -color-cm-1-10: #f9e2af
+    -color-cm-1-11: #eba0ac
+    -color-cm-1-12: #cba6f7
+/**/
+    -color-cm-2-1: #181825
+    -color-cm-2-2: #313244
+    -color-cm-2-3: #585b70
+    -color-cm-2-4: #7f849c
+    -color-cm-2-5: #a6adc8
+    -color-cm-2-6: #cdd6f4
+    -color-cm-2-7: #89b4fa
+    -color-cm-2-8: #89dceb
+    -color-cm-2-9: #a6e3a1
+    -color-cm-2-10: #fab387
+    -color-cm-2-11: #f38ba8
+    -color-cm-2-12: #f5c2e7
+
 }
 
 /* magic */
