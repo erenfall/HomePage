@@ -78,7 +78,7 @@ li {
 }
 
 #duck {
-    color:rgb(255, 255, 0);
+    color: var(-color-cm-1-10);
     text-align: center;
     font-size: 20px;
 }
