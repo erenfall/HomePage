@@ -44,6 +44,10 @@ body {
 
 /* elementos */
 
+section{
+    height: 100vh;
+}
+
 a {
     text-decoration: none;
     color: var(--color-cm-1-6);
