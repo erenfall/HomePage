@@ -68,11 +68,7 @@ li {
 }
 
 /* class */
-.nav-posterior {
-
-}
-
-.menu{
+.menu {
     display: flex;
 }
 
@@ -80,18 +76,20 @@ li {
     color: var(--color-cm-1-7);
 }
 
-.search {
-    margin-left: 12%;
-}
+.search {}
 
 /* ID */
 
 #menu {
     background-color: var(--color-cm-2-1);
     width: fit-content;
+    margin: auto;
     border-radius: 16px;
     border: 0px solid rgba(0, 0, 0, 0);
     padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #duck {
