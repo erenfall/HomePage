@@ -44,12 +44,13 @@ body {
 
 /* elementos */
 
-nav{
+nav {
     height: 6vh;
     width: 100vw;
+    position: fixed;
 }
 
-section{
+section {
     height: 100vh;
 }
 
@@ -62,7 +63,7 @@ a:hover {
     color: var(--color-cm-2-6);
 }
 
-ul{
+ul {
     padding: 20px;
 }
 
@@ -73,6 +74,10 @@ li {
 }
 
 /* class */
+.nav-posterior {
+    height: 12vh;
+}
+
 .menu {
     display: flex;
 }
@@ -90,8 +95,8 @@ li {
 #menu {
     background-color: var(--color-cm-2-1);
     width: fit-content;
-    margin: auto;    
-    border-radius: 16px ;
+    margin: auto;
+    border-radius: 16px;
     border: 0px solid rgba(0, 0, 0, 0);
     padding: 25px;
     display: flex;
@@ -102,5 +107,5 @@ li {
 #duck {
     color: var(--color-cm-1-10);
     text-align: center;
-    font-size: 20px;
+    font-size: 37px;
 }
