@@ -31,6 +31,10 @@
 
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+}
+
 /* magic */
 * {
     box-sizing: border-box;
@@ -39,7 +43,7 @@
 body {
     margin: 0%;
     font-family: 'Ubuntu Mono', monospace;
-    background-color: var(--color-cm-1-1);
+    background-color: var(--color-cm-2-1);
 }
 
 /* elementos */
@@ -48,6 +52,7 @@ nav {
     height: 6vh;
     width: 100vw;
     position: fixed;
+    background-color: var(--color-cm-2-2);
 }
 
 section {
@@ -56,15 +61,16 @@ section {
 
 a {
     text-decoration: none;
-    color: var(--color-cm-1-6);
+    color: var(--color-cm-1-7);
 }
 
 a:hover {
-    color: var(--color-cm-2-6);
+    color: var(--color-cm-2-7);
 }
 
 ul {
-    padding: 20px;
+    padding: 0px;
+    margin: 20px 20px;
 }
 
 li {
@@ -83,17 +89,27 @@ li {
 }
 
 .titulo {
-    color: var(--color-cm-1-7);
+    color: var(--color-cm-1-8);
 }
 
 .search {
+    outline: none;
     margin-left: 0%;
+    padding: 0px;
+    border-style: hidden;
+    border-color: var(--color-cm-1-11);
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    color: var(--color-cm-1-11);
+    font-size: xxx-large;
+    text-align: center;
+    background-color: transparent;
 }
 
 /* ID */
 
 #menu {
-    background-color: var(--color-cm-2-1);
+    background-color: var(--color-cm-2-2);
     width: fit-content;
     margin: auto;
     border-radius: 16px;
@@ -107,5 +123,5 @@ li {
 #duck {
     color: var(--color-cm-1-10);
     text-align: center;
-    font-size: 37px;
+    font-size: 43px;
 }
