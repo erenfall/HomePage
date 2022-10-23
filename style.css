@@ -53,6 +53,7 @@ nav {
     width: 100vw;
     position: fixed;
     background-color: var(--color-cm-2-2);
+    border-bottom: solid 2px var(--color-cm-1-11)
 }
 
 section {
