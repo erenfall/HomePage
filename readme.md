@@ -1,6 +1,6 @@
 <!--Start Page personalizada-->
 <div  align="center">
-<h3> <img src="md_assets/svg/icone.svg" width="100" height="100" alt="Discord Logo"/>
+<h3> <img src="md_assets/svg/icone.svg" width="150" height="150" alt="Discord Logo"/>
 
 Duck home
 </h3>
