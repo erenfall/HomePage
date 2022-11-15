@@ -186,7 +186,6 @@ Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um
 
 ### Comunidade StartPage
 
-<a href="https://discord.gg/r6Mdz5dpFc"><img src="md_assets/svg/latte_discord.svg" width="75" height="75" alt="Discord Logo"/></a>
-<a href="https://reddit.com/r/catppuccin"><img src="md_assets/svg/latte_reddit.svg" width="75" height="75" alt="Reddit Logo"/></a>
 
+<a href="https://reddit.com/r/startpages" ><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
 </div>
