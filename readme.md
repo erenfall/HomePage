@@ -46,7 +46,7 @@ algo
 &nbsp;
 
 
-### 🎨 Tema <a href="https://github.com/catppuccin" target="_blank">Catppuccin</a>
+### 🎨 Tema <a href="https://github.com/catppuccin">Catppuccin</a>
 
 Catppuccin é uma paleta de cores pasteis. Dentre as 4 paletas a escolhida para o projeto foi a Mocha.
 
@@ -187,5 +187,5 @@ Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um
 ### Comunidade StartPage
 
 
-<a href="https://reddit.com/r/startpages" target="_blank"><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
+<a href="https://reddit.com/r/startpages"><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
 </div>
