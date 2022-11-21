@@ -80,12 +80,13 @@ em trabalho
 ### 🎨 Tema <a href="https://github.com/catppuccin">Catppuccin</a>
 
 Catppuccin é uma paleta de cores pasteis. Dentre as 4 paletas a escolhida para o projeto foi a Mocha.
+
+<details><summary>🌿 Mocha palette</summary>
+
 &nbsp;
 
 Catppuccin infrastructure: <strong> Base > Mantle > Crust </strong>
 
-
-<details><summary>🌿 Mocha palette</summary>
 <table>
   <tr>
   <th></th>
