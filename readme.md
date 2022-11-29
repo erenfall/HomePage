@@ -16,8 +16,8 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 <table>
   <tr>
-    <th>tela 1</th>
-    <th>tela 2</th>
+    <th>tela de descanso</th>
+    <th>marcadores</th>
   </tr>
   <tr>
     <th><img src="md_assets/preview/home_frame.png" alt="preview"></img></th>
