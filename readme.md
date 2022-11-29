@@ -58,17 +58,6 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 ### Funcionalidades
 
 Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Interagi no mé, cursus quis, vehicula ac nisi.
-<details><summary>Hora</summary>
-em trabalho
-</details>
-
-<details><summary>Clima</summary>
-em trabalho
-</details>
-
-<details><summary>Buscador</summary>
-em trabalho
-</details>
 
 <details><summary>Marcador</summary>
 em trabalho
@@ -244,6 +233,18 @@ Catppuccin infrastructure: <strong> Base > Mantle > Crust </strong>
 ### Roadmap
 
 algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detalhar os próximos passos.
+
+<details><summary>Hora</summary>
+em trabalho
+</details>
+
+<details><summary>Clima</summary>
+em trabalho
+</details>
+
+<details><summary>Buscador</summary>
+em trabalho
+</details>
 
 &nbsp;
 
