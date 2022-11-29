@@ -86,10 +86,6 @@ li {
 	height: 15vh;
 }
 
-.menu {
-	display: flex;
-}
-
 .titulo {
 	color: var(--ctp-mocha-text);
 }
@@ -109,6 +105,19 @@ li {
 }
 
 /* ID */
+#duck {
+	color: var(--ctp-mocha-yellow);
+	text-align: center;
+	font-size: 50px;
+}
+
+#pato_olho{
+	color: var(--ctp-mocha-text);
+}
+
+#pato_bico{
+	color: var(--ctp-mocha-red);
+}
 
 #menu {
 	background-color: var(--ctp-mocha-mantle);
@@ -122,8 +131,6 @@ li {
 	align-items: center;
 }
 
-#duck {
-	color: var(--ctp-mocha-yellow);
-	text-align: center;
-	font-size: 50px;
+#marcadores {
+	display: flex;
 }

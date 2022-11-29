@@ -5,7 +5,7 @@
 Duck home
 </h3>
 
-Duck home tem como finalidade ser leve, agradavel, funcional e o centro durante o uso do navegador com suas funcionalides.
+Duck home tem como finalidade ser leve, agradável, funcional e o centro durante o uso do navegador com suas funcionalidades.
 </div>
 
 ---
@@ -77,11 +77,11 @@ em trabalho
 &nbsp;
 
 
-### 🎨 Tema <a href="https://github.com/catppuccin">Catppuccin</a>
+### Tema <a href="https://github.com/catppuccin">Catppuccin</a>
 
 Catppuccin é uma paleta de cores pasteis. Dentre as 4 paletas a escolhida para o projeto foi a Mocha.
 
-<details><summary>🌿 Mocha palette</summary>
+<details><summary> Mocha palette</summary>
 
 &nbsp;
 
@@ -241,9 +241,9 @@ Catppuccin infrastructure: <strong> Base > Mantle > Crust </strong>
 
 &nbsp;
 
-### Sub-sub-sub-titulo
+### Roadmap
 
-Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Aenean aliquam molestie leo, vitae iaculis nisl.In elementis mé pra quem é amistosis quis leo.Casamentiss faiz malandris se pirulitá.
+algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detalhar os próximos passos.
 
 &nbsp;
 
