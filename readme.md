@@ -61,8 +61,24 @@ Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Inte
 
 <details><summary>Marcador</summary>
 
-* botão para adicionar
-* a
+- botão para adicionar (em trabalho)
+- categorias
+-
+</details>
+
+<details><summary>Hora</summary>
+
+* em trabalho
+</details>
+
+<details><summary>Clima</summary>
+
+* em trabalho
+</details>
+
+<details><summary>Buscador</summary>
+
+* em trabalho
 </details>
 
 &nbsp;
@@ -236,20 +252,6 @@ Catppuccin infrastructure: <strong> Base > Mantle > Crust </strong>
 
 algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detalhar os próximos passos.
 
-<details><summary>Hora</summary>
-
-* em trabalho
-</details>
-
-<details><summary>Clima</summary>
-
-* em trabalho
-</details>
-
-<details><summary>Buscador</summary>
-
-* em trabalho
-</details>
 
 <details><summary>Script</summary>
 
@@ -266,7 +268,6 @@ Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um
 <div align="center">
 
 ### Comunidade StartPage
-
 
 <a href="https://reddit.com/r/startpages"><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
 </div>
