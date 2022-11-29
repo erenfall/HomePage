@@ -60,7 +60,9 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Interagi no mé, cursus quis, vehicula ac nisi.
 
 <details><summary>Marcador</summary>
-em trabalho
+
+* botão para adicionar
+* a
 </details>
 
 &nbsp;
@@ -235,17 +237,24 @@ Catppuccin infrastructure: <strong> Base > Mantle > Crust </strong>
 algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detalhar os próximos passos.
 
 <details><summary>Hora</summary>
-em trabalho
+
+* em trabalho
 </details>
 
 <details><summary>Clima</summary>
-em trabalho
+
+* em trabalho
 </details>
 
 <details><summary>Buscador</summary>
-em trabalho
+
+* em trabalho
 </details>
 
+<details><summary>Script</summary>
+
+* em trabalho
+</details>
 &nbsp;
 
 ### Sub-sub-sub-titulo
