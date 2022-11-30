@@ -28,6 +28,8 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 | ![Tela de segundaria](md_assets/preview/tela_segundaria.png) |
 </details>
 
+&nbsp;
+
 ### Funcionalidades
 
 Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Interagi no mé, cursus quis, vehicula ac nisi.
@@ -87,6 +89,8 @@ Catppuccin infrastructure: **Base** **>** **Mantle** **>** **Crust**
 | ![cor](md_assets/palette/circles/mocha_blue.png)        | Blue       | ```#89b4fa``` |        |                                                        |                    |               |
 | ![cor](md_assets/palette/circles/mocha_lavender.png)    | Lavender   | ```#b4befe``` |        |                                                        |                    |               |
 </details>
+
+&nbsp;
 
 ### Roadmap
 
