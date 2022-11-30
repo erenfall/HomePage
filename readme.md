@@ -14,9 +14,9 @@ $$algo$$
 
 ### Preview
 
-| Tela de descanso                                      | Marcadores                               |
-| ----------------------------------------------------- | ---------------------------------------- |
-| ![Tela de descanso](md_assets/preview/home_frame.png) |![](md_assets/preview/tela_principal.png) |
+| Tela de descanso                                      | Marcadores                                        |
+| ----------------------------------------------------- | ------------------------------------------------- |
+| ![Tela de descanso](md_assets/preview/home_frame.png) |![marcadore](md_assets/preview/tela_principal.png) |
 
 <details><summary>Paginas</summary>
 
