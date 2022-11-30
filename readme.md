@@ -10,8 +10,6 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 &nbsp;
 
-$$algo$$
-
 ### Preview
 
 | Tela de descanso                                      | Marcadores                                         |
