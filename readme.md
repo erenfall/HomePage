@@ -97,11 +97,6 @@ algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detal
 - em trabalho
 
 </details>
-&nbsp;
-
-### Sub-titulo
-
-Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Aenean aliquam molestie leo, vitae iaculis nisl.In elementis mé pra quem é amistosis quis leo.Casamentiss faiz malandris se pirulitá.
 
 &nbsp;
 
