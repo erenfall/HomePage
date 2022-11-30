@@ -8,8 +8,6 @@ Duck home
 Duck home tem como finalidade ser leve, agradável, funcional e o centro durante o uso do navegador com suas funcionalidades.
 </div>
 
----
-
 &nbsp;
 
 ### Preview
