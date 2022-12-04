@@ -102,9 +102,9 @@ Algumas funcionalidades não estão em funcionamento ou adicionadas.
 
 &nbsp;
 
-<center>
+<div align="center">
 
 ### Comunidade StartPage
 
 <a href="https://reddit.com/r/startpages"><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
-</center>
+</div>
