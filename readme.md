@@ -1,12 +1,12 @@
 <!--Start Page personalizada-->
-<div  align="center">
+<center>
 <h3> <img src="md_assets/svg/icone.svg" width="150" height="150" alt="duck-home Logo"/>
 
 Duck home
 </h3>
 
 Duck home tem como finalidade ser leve, agradável, funcional e o centro durante o uso do navegador com suas funcionalidades.
-</div>
+</center>
 
 &nbsp;
 
@@ -36,9 +36,7 @@ Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Inte
 
 <details><summary>Marcador</summary>
 
-- botão para adicionar (em trabalho)
-- categorias
--
+- em trabalho
 
 </details>
 
@@ -70,7 +68,7 @@ Catppuccin é uma paleta de cores pasteis. Dentre as 4 paletas a escolhida para 
 
 &nbsp;
 
-Catppuccin infrastructure: **Base** **>** **Mantle** **>** **Crust**
+Catppuccin infrastructure: **Base > Mantle > Crust**
 
 | Cor                                                     | Rótulo     | Hex           |        | Cor                                                    | Rotulo             | Hex           |
 | ------------------------------------------------------- | ---------- | ------------- | ------ | ------------------------------------------------------ | ------------------ | ------------- |
@@ -94,7 +92,7 @@ Catppuccin infrastructure: **Base** **>** **Mantle** **>** **Crust**
 
 ### Roadmap
 
-algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detalhar os próximos passos.
+Algumas funcionalidades não estão em funcionamento ou adicionadas.
 
 <details><summary>Script</summary>
 
@@ -104,9 +102,9 @@ algumas funcionalidades nao estão funcionamento ou inseridos, aqui iremos detal
 
 &nbsp;
 
-<div align="center">
+<center>
 
 ### Comunidade StartPage
 
 <a href="https://reddit.com/r/startpages"><img src="md_assets/svg/logo_reddit.svg" width="100" height="100" alt="Reddit Logo"/></a>
-</div>
+</center>
