@@ -70,7 +70,7 @@ Catppuccin é uma paleta de cores pasteis. Dentre as 4 paletas a escolhida para 
 
 Catppuccin infrastructure: **Base > Mantle > Crust**
 
-| Cor                                                     | Rótulo     | Hex           |        | Cor                                                  | Rotulo             | Hex           |
+| Cor                                                     | Rótulo     | Hex           |        | Cor                                                  | Rótulo             | Hex           |
 | ------------------------------------------------------- | ---------- | ------------- | ------ | ---------------------------------------------------- | ------------------ | ------------- |
 | ![cor](md_assets/palette/circles/mocha_rosewater.png)   | Rosewater  | ```#f5e0dc``` |        | ![cor](md_assets/palette/circles/mocha_text.png)     | Text               | ```#cdd6f4``` |
 | ![cor](md_assets/palette/circles/mocha_flamingo.png)    | Flamingo   | ```#f2cdcd``` |        | ![cor](md_assets/palette/circles/mocha_subtext1.png) | Subtext1           | ```#bac2de``` |
