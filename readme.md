@@ -12,9 +12,9 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 ### Preview
 
-| Tela de descanso                                      | Marcadores                                         |
-| ----------------------------------------------------- | -------------------------------------------------- |
-| ![Tela de descanso](md_assets/preview/home_frame.png) | ![marcadore](md_assets/preview/tela_principal.png) |
+| Tela de descanso                                      | Marcadores                                          |
+| ----------------------------------------------------- | --------------------------------------------------- |
+| ![Tela de descanso](md_assets/preview/home_frame.png) | ![Marcadores](md_assets/preview/tela_principal.png) |
 
 <details><summary>Paginas</summary>
 
@@ -25,7 +25,7 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 | Marcadores                                                   |
 | ![Marcadores](md_assets/preview/tela_principal.png)          |
 | Tela segundaria                                              |
-| ![Tela de segundaria](md_assets/preview/tela_segundaria.png) |
+| ![Tela segundaria](md_assets/preview/tela_segundaria.png)    |
 </details>
 
 &nbsp;
