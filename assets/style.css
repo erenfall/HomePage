@@ -81,6 +81,10 @@ li {
 	margin-left: 1em;
 }
 
+p {
+	margin: 0px;
+}
+
 /* class */
 .blank {
 	height: 15vh;
