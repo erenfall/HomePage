@@ -12,7 +12,7 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 ### Preview
 
-| Marcadores                                          |
+| Tela principal                                      |
 | --------------------------------------------------- |
 | ![Marcadores](md_assets/preview/tela_principal.png) |
 
