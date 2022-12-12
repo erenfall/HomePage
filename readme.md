@@ -12,21 +12,9 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 ### Preview
 
-| Tela de descanso                                      | Marcadores                                          |
-| ----------------------------------------------------- | --------------------------------------------------- |
-| ![Tela de descanso](md_assets/preview/home_frame.png) | ![Marcadores](md_assets/preview/tela_principal.png) |
-
-<details><summary>Paginas</summary>
-
-|                                                              |
-| ------------------------------------------------------------ |
-| Tela de descanso                                             |
-| ![Tela de descanso](md_assets/preview/home_frame.png)        |
-| Marcadores                                                   |
-| ![Marcadores](md_assets/preview/tela_principal.png)          |
-| Tela segundaria                                              |
-| ![Tela segundaria](md_assets/preview/tela_segundaria.png)    |
-</details>
+| Marcadores                                          |
+| --------------------------------------------------- |
+| ![Marcadores](md_assets/preview/tela_principal.png) |
 
 &nbsp;
 
@@ -35,18 +23,6 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Interagi no mé, cursus quis, vehicula ac nisi.
 
 <details><summary>Marcador</summary>
-
-- em trabalho
-
-</details>
-
-<details><summary>Hora</summary>
-
-- em trabalho
-
-</details>
-
-<details><summary>Clima</summary>
 
 - em trabalho
 
@@ -86,18 +62,6 @@ Catppuccin infrastructure: **Base > Mantle > Crust**
 | ![cor](md_assets/palette/circles/mocha_sapphire.png)    | Sapphire   | ```#74c7ec``` |        | ![cor](md_assets/palette/circles/mocha_crust.png)    | Crust              | ```#11111b``` |
 | ![cor](md_assets/palette/circles/mocha_blue.png)        | Blue       | ```#89b4fa``` |        |                                                      |                    |               |
 | ![cor](md_assets/palette/circles/mocha_lavender.png)    | Lavender   | ```#b4befe``` |        |                                                      |                    |               |
-</details>
-
-&nbsp;
-
-### Roadmap
-
-Algumas funcionalidades não estão em funcionamento ou adicionadas.
-
-<details><summary>Script</summary>
-
-- em trabalho
-
 </details>
 
 &nbsp;
