@@ -3,6 +3,9 @@
 <h3> <img src="md_assets/svg/icone.svg" width="150" height="150" alt="duck-home Logo"/>
 
 Duck home
+  
+(projeto temporariamente pausado, configurando ambiente de trabalho)
+  
 </h3>
 
 Duck home tem como finalidade ser leve, agradável, funcional e o centro durante o uso do navegador com suas funcionalidades.
