@@ -21,19 +21,19 @@ Duck home tem como finalidade ser leve, agradável, funcional e o centro durante
 
 &nbsp;
 
-### Funcionalidades
+### Funcionalidades (em trabalho)
 
 Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Interagi no mé, cursus quis, vehicula ac nisi.
 
 <details><summary>Marcador</summary>
 
-- em trabalho
+- Marcador estatico.
 
 </details>
 
 <details><summary>Buscador</summary>
 
-- em trabalho
+- em trabalho.
 
 </details>
 
