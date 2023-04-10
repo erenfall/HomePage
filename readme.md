@@ -4,7 +4,7 @@
 
 Duck home
   
-(projeto temporariamente pausado, configurando ambiente de trabalho)
+(projeto em andamento)
   
 </h3>
 
